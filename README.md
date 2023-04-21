@@ -18,6 +18,7 @@ It is illegal to sell tobacco to individuals under the age of 21 since 1 January
 - seaborn
 - matplotlib.pyplot 
 
-# Files countained
+# Files contained
+
 - CSV File 
 - Python Notebook
