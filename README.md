@@ -11,7 +11,7 @@ It is illegal to sell tobacco to individuals under the age of 21 since 1 January
     Gender: the gender of the subjects: a numeric vector with females coded as 0 and males as 1
     Smoke: the smoking status of the subject: a numeric vector with non-smokers coded as 0 and smokers as 1
     
-# Analysis using the following the 
+# Analysis using the following Liberaries
 
 - numpy
 - pandas
